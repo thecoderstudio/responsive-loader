@@ -6,6 +6,7 @@ const loaderUtils = require('loader-utils');
 const MIMES = {
   'jpg': 'image/jpeg',
   'jpeg': 'image/jpeg',
+  'webp': 'image/webp',
   'png': 'image/png'
 };
 
