@@ -1,1 +1,1 @@
-module.exports = require('./lib/adapters/sharp');
+module.exports = require('./src/adapters/sharp');
